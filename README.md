@@ -1,3 +1,4 @@
 # 网易MC起名模拟器
-生草名字生成器
-![IMG_8024](https://github.com/F7YM/Netease-MC-Name-Simulator/assets/130836015/e3af0579-caeb-4750-9991-98b576e41b00)
+生草名字生成器，模仿网易版Minecraft为玩家生成的随机名
+
+![IMG_8024](https://githubfast.com/F7YM/Netease-MC-Name-Simulator/assets/130836015/e3af0579-caeb-4750-9991-98b576e41b00)
